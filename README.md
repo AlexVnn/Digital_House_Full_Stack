@@ -2,7 +2,7 @@ Digital House
 
 Full Stack Java
 
-Repositório de Aulas
+Repositório das Aulas
 
 --
 
