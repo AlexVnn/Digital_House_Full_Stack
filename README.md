@@ -1,1 +1,12 @@
-# Digital_House_Full_Stack
+Digital House
+
+Full Stack Java
+
+Repositório de Aulas
+
+--
+
+Aula 07
+
+• Git
+• JavaScript
